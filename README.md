@@ -1,4 +1,4 @@
-# Data Analyst Project: Supply-Chain-Management
+# Data Analyst Project: Supply Chain Management
 
 Supply Chain Management refers to the process of coordination and management of various activities involved in the production, distribution, and delivery of goods or services from their source to the end consumer. This includes everything from sourcing the raw components, coordinating with suppliers and manufacturers, to managing all the intermediate and final delivery services.
 
